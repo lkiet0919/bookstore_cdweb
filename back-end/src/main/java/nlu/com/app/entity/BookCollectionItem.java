@@ -13,9 +13,6 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-/**
- * @author VuLuu
- */
 @Entity
 @Table(name = "book_collection_items")
 @Data

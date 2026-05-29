@@ -10,9 +10,6 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.experimental.FieldDefaults;
 
-/**
- * @author VuLuu
- */
 @Data
 @Builder
 @AllArgsConstructor

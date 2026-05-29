@@ -20,9 +20,6 @@ import org.springframework.web.multipart.MultipartFile;
 
 import java.util.Arrays;
 
-/**
- * @author VuLuu
- */
 @RequestMapping("/api/book")
 @RestController
 @RequiredArgsConstructor

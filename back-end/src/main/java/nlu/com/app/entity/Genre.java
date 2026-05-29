@@ -18,9 +18,6 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import nlu.com.app.constant.EGenre;
 
-/**
- * @author VuLuu
- */
 @Entity
 @Table(name = "genres")
 @Data

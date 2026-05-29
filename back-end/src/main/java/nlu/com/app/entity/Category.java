@@ -20,9 +20,6 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import nlu.com.app.constant.ECategory;
 
-/**
- * @author VuLuu
- */
 @Entity
 @Table(name = "categories")
 @Data
