@@ -11,9 +11,6 @@ import org.springframework.batch.item.ParseException;
 import org.springframework.batch.item.UnexpectedInputException;
 import org.springframework.data.redis.core.RedisTemplate;
 
-/**
- * @author VuLuu
- */
 
 public class CartRedisReader implements ItemReader<Cart> {
 

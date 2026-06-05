@@ -11,9 +11,6 @@ import nlu.com.app.dto.response.TopSellingProductDTO;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 
-/**
- * @author VuLuu
- */
 public interface IOrderService {
 
   OrderResponseDTO createOrderFromCart(List<Long> selectedProductIds, Long paymentMethodId);

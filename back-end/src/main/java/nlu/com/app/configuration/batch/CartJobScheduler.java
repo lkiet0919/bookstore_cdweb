@@ -8,9 +8,7 @@ import org.springframework.batch.core.launch.JobLauncher;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
 
-/**
- * @author VuLuu
- */
+
 @Component
 @RequiredArgsConstructor
 public class CartJobScheduler {

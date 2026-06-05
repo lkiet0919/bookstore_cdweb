@@ -19,9 +19,6 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import nlu.com.app.constant.UserRole;
 
-/**
- * @author VuLuu
- */
 @Entity
 @Table(name = "users")
 @Data

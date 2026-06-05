@@ -21,9 +21,6 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import nlu.com.app.constant.EOrderStatus;
 
-/**
- * @author VuLuu
- */
 @Entity
 @Table(name = "orders")
 @Data

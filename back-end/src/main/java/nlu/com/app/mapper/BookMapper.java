@@ -32,9 +32,6 @@ import org.mapstruct.Mapping;
 import org.mapstruct.MappingConstants;
 import org.mapstruct.Named;
 
-/**
- * @author VuLuu
- */
 @Mapper(componentModel = MappingConstants.ComponentModel.SPRING,
     builder = @Builder(disableBuilder = true))
 public interface BookMapper {

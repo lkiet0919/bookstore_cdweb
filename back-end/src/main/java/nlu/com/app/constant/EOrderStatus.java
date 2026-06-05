@@ -1,8 +1,5 @@
 package nlu.com.app.constant;
 
-/**
- * @author VuLuu
- */
 public enum EOrderStatus {
   PENDING_CONFIRMATION("Chờ xác nhận"),
   CONFIRMED("Đã xác nhận"),

@@ -10,9 +10,6 @@ import nlu.com.app.entity.PaymentMethod;
 import nlu.com.app.repository.PaymentMethodRepository;
 import org.springframework.stereotype.Service;
 
-/**
- * @author VuLuu
- */
 @Service
 @RequiredArgsConstructor
 @FieldDefaults(level = AccessLevel.PRIVATE, makeFinal = true)
