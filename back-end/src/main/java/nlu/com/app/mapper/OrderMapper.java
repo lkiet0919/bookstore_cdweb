@@ -16,9 +16,6 @@ import org.mapstruct.MappingConstants;
 import org.mapstruct.Named;
 import org.mapstruct.factory.Mappers;
 
-/**
- * @author VuLuu
- */
 @Mapper(componentModel = MappingConstants.ComponentModel.SPRING,
     builder = @Builder(disableBuilder = true))
 public interface OrderMapper {

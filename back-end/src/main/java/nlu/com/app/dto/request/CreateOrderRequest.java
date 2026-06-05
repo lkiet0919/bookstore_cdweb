@@ -9,9 +9,6 @@ import lombok.Setter;
 import lombok.experimental.FieldDefaults;
 import lombok.experimental.SuperBuilder;
 
-/**
- * @author VuLuu
- */
 @Getter
 @Setter
 @SuperBuilder

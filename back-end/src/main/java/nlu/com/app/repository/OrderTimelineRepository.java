@@ -7,9 +7,6 @@ import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
-/**
- * @author Nguyen Tuan
- */
 @Repository
 public interface OrderTimelineRepository extends JpaRepository<OrderTimeline, Long> {
     List<OrderTimeline> findByOrderOrderIdOrderByCreatedAtAsc(Long orderId);

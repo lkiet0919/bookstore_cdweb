@@ -1,8 +1,5 @@
 package nlu.com.app.constant;
 
-/**
- * @author VuLuu
- */
 public enum EPaymentMethod {
   COD("Thanh toán khi nhận hàng"),
   CREDIT_CARD("Thẻ tín dụng/Ghi nợ"),

@@ -18,10 +18,6 @@ import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author Nguyen Tuan
- */
-
 @Mapper(componentModel = MappingConstants.ComponentModel.SPRING,
         builder = @Builder(disableBuilder = true))
 public interface PromotionMapper {

@@ -7,9 +7,6 @@ import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
-/**
- * @author VuLuu
- */
 @Repository
 public interface OrderItemRepository extends JpaRepository<OrderItem, Long> {
     @Query("""

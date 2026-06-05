@@ -14,9 +14,6 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import nlu.com.app.constant.EPaymentMethod;
 
-/**
- * @author VuLuu
- */
 @Entity
 @Table(name = "payment_methods")
 @Data

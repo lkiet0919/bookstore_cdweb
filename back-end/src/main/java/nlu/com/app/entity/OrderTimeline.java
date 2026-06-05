@@ -9,9 +9,6 @@ import nlu.com.app.constant.EOrderStatus;
 
 import java.time.LocalDateTime;
 
-/**
- * @author Nguyen Tuan
- */
 @Entity
 @Table(name = "order_timeline")
 @Data

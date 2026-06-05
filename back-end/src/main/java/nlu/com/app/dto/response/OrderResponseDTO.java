@@ -5,9 +5,6 @@ import java.util.List;
 import lombok.Data;
 import nlu.com.app.dto.request.AddressDto;
 
-/**
- * @author VuLuu
- */
 @Data
 public class OrderResponseDTO {
 

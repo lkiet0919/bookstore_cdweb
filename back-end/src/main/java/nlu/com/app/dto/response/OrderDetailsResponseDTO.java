@@ -6,9 +6,6 @@ import nlu.com.app.dto.request.AddressDto;
 import java.time.LocalDate;
 import java.util.List;
 
-/**
- * @author Nguyen Tuan
- */
 @Data
 public class OrderDetailsResponseDTO {
 

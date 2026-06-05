@@ -1,8 +1,5 @@
 package nlu.com.app.service.impl;
 
-/**
- * @author VuLuu
- */
 
 import java.util.List;
 import lombok.AccessLevel;

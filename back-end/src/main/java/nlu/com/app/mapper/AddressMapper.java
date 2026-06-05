@@ -7,9 +7,6 @@ import org.mapstruct.Mapper;
 import org.mapstruct.MappingTarget;
 import org.mapstruct.NullValuePropertyMappingStrategy;
 
-/**
- * @author VuLuu
- */
 @Mapper(componentModel = "spring")
 public interface AddressMapper {
 
